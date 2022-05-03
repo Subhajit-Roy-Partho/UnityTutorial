@@ -1,3 +1,5 @@
 **/logs
 *.log
 *Cache
+!important/*.log
+!important.log
